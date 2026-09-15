@@ -220,4 +220,3 @@ Duplicate entries are caught via Prisma error code `P2002` (unique constraint vi
 
 ---
 
-*DecodeLabs Industrial Training Kit — Batch 2026*
